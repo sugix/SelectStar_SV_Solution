@@ -9,10 +9,6 @@ SelectStar_SV_Solution
 .. image:: https://img.shields.io/travis/sugix/SelectStar_SV_Solution.svg
         :target: https://travis-ci.org/sugix/SelectStar_SV_Solution
 
-.. image:: https://ci.appveyor.com/api/projects/status/sugix/branch/master?svg=true
-    :target: https://ci.appveyor.com/project/sugix/SelectStar_SV_Solution/branch/master
-    :alt: Build status on Appveyor
-
 .. image:: https://readthedocs.org/projects/selectstar-sv-solution/badge/?version=latest
         :target: https://selectstar-sv-solution.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
