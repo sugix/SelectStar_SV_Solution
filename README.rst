@@ -47,13 +47,15 @@ Pre-Req
 Usage
 
 * Run command uvicorn src.app.main:app --reload from the root. The above will start the backend.
-* You can visit 127.0.0.1:8000/docs and interactively try. On start-up, the app will process input file.
+* You can visit 127.0.0.1:8000/docs after application startup finishes and interactively try. On start-up, the app will process input file.
 * You can issue a POST request so that affinity propogation based grouping will run async.
 * Issue a GET request to / (Intelligent Grouping Status) to know the count of dictionary. If the count is not zero then the above said affinity based grouping has finished.
 * Issue a GET request to /intelligent_group to see how the names are grouped.
 
 * Open a new terminal for the same project folder.
 * cd into frontend folder
+* Install latest node and install yarn globally.
+* Type yarn install
 * Type yarn dev
 * You can hit http://localhost:3001/ to view the frontend VUE app calling the GET api of bruteforce grouping.
 
