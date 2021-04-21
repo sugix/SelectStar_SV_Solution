@@ -12,7 +12,7 @@ repository = "https://github.com/sugix/SelectStar_SV_Solution"
 
 
 packages = [
-    { include = "selectstar_sv_solution", from = "src"},
+    { include = "app", from = "src"},
 ]
 
 classifiers = [
