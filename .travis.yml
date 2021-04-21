@@ -24,6 +24,5 @@ deploy:
   script: poetry publish --build
   skip_cleaning: true
   on:
-    tags: true
     repo: sugix/SelectStar_SV_Solution
     python: 3.8
