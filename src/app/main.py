@@ -3,7 +3,6 @@ import json
 import numpy as np
 from fastapi import BackgroundTasks, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from sqlitedict import SqliteDict
 from typing import List
 import pandas as pd
 from itertools import groupby
