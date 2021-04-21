@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "SelectStar_SV_Solution"
-version = "0.1.1"
+version = "0.1.2"
 homepage = "https://selectstar-sv-solution.readthedocs.io"
 description = "Solution submitted by SugiV for Select Star TLM take home exercise"
 authors = ["Sugi Venugeethan <sugi205@gmail.com>"]
